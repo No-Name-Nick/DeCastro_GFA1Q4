@@ -1,0 +1,31 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 20px;
+}
+body{
+    background-color: #D92121;
+    margin-top: 0;
+}
+header{
+    background-color: white;
+    margin-top: 0;
+}
+#ResAndForm{
+    text-align: center;
+}
+#itsover500{
+    margin-left: 501px;
+    margin-right: 501px;
+}
+#Logo{
+    margin-left: 200px;
+}
+.InPuts{
+    color: black;
+}
+h1{
+    font-size: 40px;
+}
